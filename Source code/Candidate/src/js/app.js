@@ -108,8 +108,13 @@ App = {
   },
 
 
-
-
+  /*
+  
+  remove candidate functionality added  here
+  
+  
+  */
+    
   AddCandidate: function() {
     var candidateName = $('#name').val();
     var candidateAge = $('#age').val();
